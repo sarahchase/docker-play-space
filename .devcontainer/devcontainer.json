@@ -1,5 +1,6 @@
 {
   "name": "Creative_Coding",
   "dockerFile": "Dockerfile",
-  "forwardPorts": [8888]
+  "forwardPorts": [8888],
+  "postCreateCommand": "docker-compose up -d"
 }
