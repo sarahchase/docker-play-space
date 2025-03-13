@@ -1,5 +1,5 @@
 {
   "name": "Creative_Coding",
-  "dockerFile": "Dockerfile",
+  "dockerFile": "../Dockerfile",
   "forwardPorts": [8888]
 }
